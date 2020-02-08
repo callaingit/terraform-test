@@ -1,3 +1,3 @@
 output myoutput {
-  value = var.variable1
+  value = "v1.1: ${var.variable1}"
 }
